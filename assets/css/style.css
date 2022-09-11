@@ -97,7 +97,7 @@ h6 {
 }
 
 #header #logo h1 {
-  font-size: 32px;
+  font-size: 20px;
   margin: 0;
   line-height: 1;
   font-family: "Poppins", sans-serif;
@@ -108,7 +108,7 @@ h6 {
 
 #header #logo h1 a,
 #header #logo h1 a:hover {
-  color: #fff;
+  color: brown;
 }
 
 #header #logo img {
@@ -187,7 +187,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #2dc997;
+  background-color: black;
   visibility: hidden;
   transform: scaleX(0);
   transition: all 0.3s ease-in-out 0s;
