@@ -121,7 +121,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(52, 59, 64, 0.9);
+  background: antiquewhite;
   height: 70px;
   transition: all 0.5s;
 }
@@ -163,7 +163,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: brown;
   font-size: 14px;
   padding: 0 4px;
   white-space: nowrap;
@@ -204,7 +204,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: brown;
 }
 
 .navbar .dropdown ul {
@@ -407,7 +407,7 @@ h6 {
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.6);
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
   top: 0;
   left: 0;
